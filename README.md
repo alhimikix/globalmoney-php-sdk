@@ -1,0 +1,1 @@
+# globalmoney-php-sdk
