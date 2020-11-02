@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0731be16-71ca-406a-b9f9-c276ad336e8e" name="Default Changelist" comment="" />
+    <list default="true" id="0731be16-71ca-406a-b9f9-c276ad336e8e" name="Default Changelist" comment="fix name">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sdk-php.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LiqPay.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,7 +43,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604329030851</updated>
-      <workItem from="1604329031919" duration="909000" />
+      <workItem from="1604329031919" duration="1201000" />
     </task>
     <task id="LOCAL-00001" summary="теперь работает для globalMoney">
       <created>1604329314928</created>
@@ -68,13 +78,17 @@
     <option name="LAST_COMMIT_MESSAGE" value="fix name" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2390" y="101" width="912" height="911" key="CommitChangelistDialog2" timestamp="1604329600456">
+    <state x="2386" y="102" width="912" height="911" key="CommitChangelistDialog2" timestamp="1604330227797">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="2390" y="101" width="912" height="911" key="CommitChangelistDialog2/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1604329600456" />
+    <state x="2386" y="102" width="912" height="911" key="CommitChangelistDialog2/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1604330227797" />
     <state x="2446" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1604329601564">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2446" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1604329601564" />
+    <state x="2632" y="468" width="438" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604330218965">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2632" y="468" width="438" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1604330218965" />
   </component>
 </project>
